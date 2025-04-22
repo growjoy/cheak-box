@@ -31,7 +31,7 @@ Proyek ini adalah implementasi fitur **Check Box** yang dapat digunakan untuk be
 /project
 ├── index.html
 ├── style.css
-├── script.js
+├── main.js
 └── README.md
 ```
 
